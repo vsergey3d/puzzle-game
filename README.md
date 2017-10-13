@@ -1,2 +1,2 @@
 # puzzle-game
-Simple puzzle game made during 8-9 hours
+Simple puzzle game made in 8-9 hours
