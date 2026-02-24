@@ -1,2 +1,2 @@
 # puzzle-game
-Simple puzzle game made in 8-9 hours
+C++ Interview Benchmark: A 8-hour technical challenge for evaluating Senior/Lead developer candidates.
